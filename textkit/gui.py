@@ -122,6 +122,7 @@ def build_app():
     """
     import tkinter as tk
     from tkinter import ttk, filedialog
+    from .aura import filedialog  # noqa: F811 - Aura kdialog-native pickers
     import customtkinter as ctk
 
     from . import aura, guiconfig

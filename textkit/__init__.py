@@ -59,7 +59,7 @@ from .encoding import (
 )
 from . import textops
 
-__version__ = "1.0.5"
+__version__ = "1.0.6"
 
 __all__ = [
     "TextKitError",

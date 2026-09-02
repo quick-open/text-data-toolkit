@@ -1,6 +1,6 @@
 ; Inno Setup — Text & Data Toolkit. Signed single-file installer, compiled in CI.
 #define AppName "Text & Data Toolkit"
-#define AppVersion "1.0.5"
+#define AppVersion "1.0.6"
 
 [Setup]
 AppMutex=QuickOpen.TextDataToolkit
@@ -42,7 +42,7 @@ WizardSmallImageFile=branding\wizard-small.bmp
 AppCopyright=Apache-2.0. 100%% AI-built, published on QuickOpen (quickopen.ai).
 VersionInfoCompany=QuickOpen
 VersionInfoProductName=Text & Data Toolkit
-VersionInfoVersion=1.0.5.0
+VersionInfoVersion=1.0.6.0
 PrivilegesRequired=lowest
 PrivilegesRequiredOverridesAllowed=dialog
 ArchitecturesInstallIn64BitMode=x64compatible
